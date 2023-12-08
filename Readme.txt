@@ -6,3 +6,5 @@ Fire-Dataset is a dataset collected in order to train machine learning model to 
 Download, Training and Prediction
 The Fire-Dataset is provided for download in the release section of this repository. You can download the dataset via this link Fire-Dataset.
 ![](https://github.com/glorioustory/fire-datasets/blob/main/demo/00007.jpg)
+![](https://github.com/glorioustory/fire-datasets/blob/main/demo/00081.jpg)
+![](https://github.com/glorioustory/fire-datasets/blob/main/demo/00083.jpg)
